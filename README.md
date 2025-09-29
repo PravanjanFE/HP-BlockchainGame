@@ -1,7 +1,6 @@
 ![HP-Blockchain](./assets/cover-image.png)
 
-# 🕹️ HP: The Adventure of Knoobs – Web3 Play-to-Earn Game
-
+# 🕹️ HP: The Adventure of Knoobs
 **HP: The Adventure of Knoobs** is a **blockchain-powered Unity game** that fuses **classic farming, crafting, and exploration** with new-gen **Web3 mechanics**, giving players the power to truly **own, trade, and mutate** their digital assets.
 
 What if players could step into a **vibrant, open-world adventure** where every crafted weapon, harvested crop, and mutated item is an **NFT they can trade or evolve on-chain**?  
@@ -58,6 +57,12 @@ All playable assets — tools, weapons, skins — are **minted as NFTs**, enabli
 - **Battles against AI mutants** using melee and ranged fighting  
 - **Mutation system** where assets can evolve into **rare, powerful variants**  
 
+<p align="center">
+<img src="./assets/UI.png" width="70%"><br>
+<em>This image shows the Trello board workflow for this project.</em>
+</p>
+
+
 ---
 
 ## 🧩 Blockchain Integration
@@ -73,6 +78,13 @@ Main menu modules include:
 **Armory, Weaponry, Bestiary, Crafting, Cooking, Alchemy, World**
 
 - All panels built with **custom Unity UI**, ensuring **fluid navigation** between **inventory, resource management, and crafting flows**
+
+
+<p align="center">
+<img src="./assets/Farming.png" width="70%"><br>
+<em>This image shows the Trello board workflow for this project.</em>
+</p>
+
 
 ---
 
