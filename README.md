@@ -59,7 +59,6 @@ All playable assets — tools, weapons, skins — are **minted as NFTs**, enabli
 
 <p align="center">
 <img src="./assets/UI.png" width="70%"><br>
-<em>This image shows the Trello board workflow for this project.</em>
 </p>
 
 
@@ -82,7 +81,6 @@ Main menu modules include:
 
 <p align="center">
 <img src="./assets/Farming.png" width="70%"><br>
-<em>This image shows the Trello board workflow for this project.</em>
 </p>
 
 
