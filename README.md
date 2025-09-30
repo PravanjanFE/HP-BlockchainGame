@@ -1,7 +1,7 @@
 ![HP-Blockchain](./assets/cover-image.png)
 
-# 🕹️ HP: The Adventure of Knoobs
-**HP: The Adventure of Knoobs** is a **blockchain-powered Unity game** that fuses **classic farming, crafting, and exploration** with new-gen **Web3 mechanics**, giving players the power to truly **own, trade, and mutate** their digital assets.
+# 🕹️ House Party : Web3 Game
+**House Party** is a **blockchain-powered Unity game** that fuses **classic farming, crafting, and exploration** with new-gen **Web3 mechanics**, giving players the power to truly **own, trade, and mutate** their digital assets.
 
 What if players could step into a **vibrant, open-world adventure** where every crafted weapon, harvested crop, and mutated item is an **NFT they can trade or evolve on-chain**?  
 What if **ownership and rewards were transparent and truly player-first**, with sustainable **play-to-earn incentives** and secure **blockchain wallet integration**?
