@@ -10,6 +10,10 @@ This project harnesses **Unity URP, Blender, Ethereum smart contracts, and a cus
 
 ---
 
+[▶ Watch Gameplay Demo Video](https://drive.google.com/file/d/13uni3shmAXWDukOeao0PNzu-NJcNHXzF/view?usp=drive_link)
+
+---
+
 ## 📑 Contents
 - [🌍 Overview](#-overview)
 - [🔄 Workflow Summary](#-workflow-summary)
